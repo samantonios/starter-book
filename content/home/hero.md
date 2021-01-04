@@ -5,6 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
+
 title = 
 "Sam Antonios MD | Book Experience"
 
@@ -51,8 +52,6 @@ hero_media = "book.svg"
 # [cta_note]
  # label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
-
-# For [Academic Website Builder](https://sourcethemes.com/academic/).
 
 Using R Code to write a Book project
 

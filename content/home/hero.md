@@ -6,8 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 
-title = 
-"Sam Antonios MD | Book Experience"
+title = "Sam Antonios MD | Book Experience"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.svg"
@@ -38,7 +37,7 @@ hero_media = "book.svg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
+#[cta]
   #url = "docs/"
   #label = "Get Started"
   #icon_pack = "fas"
@@ -55,4 +54,4 @@ hero_media = "book.svg"
 
 Using R Code to write a Book project
 
-# <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

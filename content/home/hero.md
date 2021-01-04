@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Book Template"
+title = "Sam Antonios Book | Book Experience"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.svg"
@@ -36,23 +36,23 @@ hero_media = "book.svg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "docs/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+#[cta]
+  #url = "docs/"
+  #label = "Get Started"
+  #icon_pack = "fas"
+  #icon = "download"
   
 [cta_alt]
   url = "docs/"
-  label = "View Documentation"
+  label = "View Book"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+#[cta_note]
+ # label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
+#For [Academic Website Builder](https://sourcethemes.com/academic/).
 
-Write something interesting about your project here.
+Using R Code to write a Book project
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

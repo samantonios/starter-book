@@ -1,6 +1,6 @@
 ---
-title: Docs
+title: Using R for Statistics
 type: book  # Do not modify.
 ---
 
-Welcome to the _book_ template!
+Statistics Using R

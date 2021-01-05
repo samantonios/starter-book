@@ -43,9 +43,9 @@ hero_media = "book.svg"
   #icon_pack = "fas"
   #icon = "download"
   
-[cta_alt]
-  url = "docs/"
-  label = "View the Book"
+# [cta_alt]
+ # url = "docs/"
+ # label = "View the Book"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
@@ -54,4 +54,4 @@ hero_media = "book.svg"
 
 Using R Code to write a Book project
 
-# <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+#  <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
